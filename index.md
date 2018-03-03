@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+##Alec W. Holt
 
-You can use the [editor on GitHub](https://github.com/AlecHolt/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##Contact Info - 
+  ###Email: [alecwholt@gmail.com](gmail.com)
+  ###Phone: [1(760)XXX-XXXX](skype.com)
+ 
+##Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###MiraCosta College
+Mechanical Engineering: Mechanical Design and Computer Aided Drafting, Certificate of Proficieny.
+Computer Science: 
+General: Liberal Math and Science, Associates.
+         HAZWOPPER general certification (2017 renewed).
 
-### Markdown
+##Work Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlecHolt/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###A&N Technical Services Inc.
+  Developed models and analytical statistics based off of weather and climate data, or client data to deliver reports of environmental and water use impact. Performed evaluations on water efficiency standards and water use standards to design a post-report on the effectiveness of water efficiency company's policies. Researched and collected vital data to design reports. (2015-present).
+  
+###Innovative Environmental Services Inc.
+  Drafted groundwater contour maps and well information on groundwater clenaup and remediation sites. Perform well monitoring tasks in-field and record well information for remediation. (2015-present)
+  
+###ComputerScape Inc.
+  Performed computer maintenance in repair in the form of office and private checkups, office router insatllation and setup, computer reapir and cleanup, general IT assistance over the phone and in-person meetings, and maintained network security for small buisnesses and personal use. (2009-2013).
