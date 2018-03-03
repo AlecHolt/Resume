@@ -5,7 +5,7 @@
   ### Email: [alecwholt@gmail.com](gmail.com)
   ### Phone: [1(760)XXX-XXXX](skype.com)
   
-### Primary Langiuages:
+### Primary Languages:
     - Java
     - C#
     - R
